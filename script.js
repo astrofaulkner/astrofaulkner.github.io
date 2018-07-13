@@ -1,6 +1,6 @@
 //Found here: https://bl.ocks.org/wboykinm/8a87b89f3600a7175f27
 $.getJSON(
-"file:///H:/GreenPastures/D3/talley_ho.json",
+"talley_ho.json",
   function(data) {
     // process into geojson
     var devGeojson = {
